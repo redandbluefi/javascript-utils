@@ -1,10 +1,10 @@
 {
   "name": "@redandblue/utils",
-  "description": "Generic JavaScript components",
+  "description": "Generic JavaScript utilities and helpers",
   "version": "0.1.0",
   "main": "lib/index.js",
   "author": "Red & Blue Oy",
-  "repository": "https://github.com/redandbluefi/js-utils",
+  "repository": "https://github.com/redandbluefi/javascript-utils",
   "license": "MIT",
   "scripts": {
     "build": "babel src/ --out-dir lib --ignore spec.js",
