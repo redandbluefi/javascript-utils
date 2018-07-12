@@ -1,4 +1,4 @@
-import { default as flattenObject } from './flattenObject';
+import { default as flattenObject } from '../flattenObject';
 
 describe('flattenObject', () => {
   it('should be able to flatten object', () => {

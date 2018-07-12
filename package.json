@@ -1,7 +1,7 @@
 {
   "name": "@redandblue/utils",
   "description": "Generic JavaScript utilities and helpers",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "author": "Red & Blue Oy",
   "repository": "https://github.com/redandbluefi/javascript-utils",
@@ -29,7 +29,12 @@
     "pretty-quick": "^1.4.1"
   },
   "jest": {
-    "moduleDirectories": ["src", "node_modules"]
+    "moduleDirectories": [
+      "src",
+      "node_modules"
+    ]
   },
-  "files": ["lib/"]
+  "files": [
+    "lib/"
+  ]
 }
